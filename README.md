@@ -8,3 +8,5 @@ In order to use run the Jyputer notebooks, you should first download the below f
 * MIT-BIH Arrhythmia Database (https://physionet.org/content/mitdb/1.0.0/)
 * Long Term AF Database (https://physionet.org/content/ltafdb/1.0.0/)
 * MIT-BIH Normal Sinus Rhythm Database (https://physionet.org/content/nsrdb/1.0.0/)
+
+By executing the "main.ipynb" file, you can reproduce the results presented in the manuscript.
