@@ -15,4 +15,4 @@ By executing the "main.ipynb" file, you can reproduce the results presented in t
 
 :point_right: The first version of this repository has been developed by Masud Shah Jahan during the course of his Bachelor thesis at the University of Southern Denmark and it has been modified afterwards to the current version by Abdolrahman Peimankar. 
 
-Please contact Masud Shah Jahan at mjaha18@student.sdu.dk or Abdolrahman Peimankar at abpe@mmmi.sdu.dk if you have any questions. 
+If you have any questions, please contact Masud Shah Jahan at mjaha18@student.sdu.dk or Abdolrahman Peimankar at abpe@mmmi.sdu.dk. 
